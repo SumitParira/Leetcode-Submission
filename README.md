@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->

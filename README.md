@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0273-integer-to-english-words](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0273-integer-to-english-words/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

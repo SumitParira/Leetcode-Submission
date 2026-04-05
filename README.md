@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0273-integer-to-english-words](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0273-integer-to-english-words/) | Hard |
+| [0657-robot-return-to-origin](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2751-robot-collisions](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |

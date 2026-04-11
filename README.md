@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

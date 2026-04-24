@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0233-number-of-digit-one](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [0273-integer-to-english-words](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0273-integer-to-english-words/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -115,10 +116,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0233-number-of-digit-one](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [0273-integer-to-english-words](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0273-integer-to-english-words/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0233-number-of-digit-one](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |

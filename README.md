@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

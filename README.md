@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0233-number-of-digit-one](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [0273-integer-to-english-words](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0273-integer-to-english-words/) | Hard |
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0233-number-of-digit-one](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
@@ -197,4 +199,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->

@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -211,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->

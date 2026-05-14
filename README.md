@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |

@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0273-integer-to-english-words](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0273-integer-to-english-words/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -104,9 +105,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |

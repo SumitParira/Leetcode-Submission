@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

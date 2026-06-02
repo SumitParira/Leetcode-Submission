@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0273-integer-to-english-words/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
+| [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1345-jump-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -224,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -243,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |

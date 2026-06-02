@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0322-coin-change](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
+| [0815-bus-routes](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0815-bus-routes](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
+| [0815-bus-routes](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1345-jump-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |

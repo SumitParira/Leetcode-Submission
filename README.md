@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

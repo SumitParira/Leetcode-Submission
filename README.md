@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

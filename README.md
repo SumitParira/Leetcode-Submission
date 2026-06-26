@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Backtracking
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,4 +333,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->

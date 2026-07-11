@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -130,10 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->

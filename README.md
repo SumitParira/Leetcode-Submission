@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0815-bus-routes](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -365,4 +369,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->

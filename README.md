@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2224-minimum-number-of-operations-to-convert-time/) | Easy |

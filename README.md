@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

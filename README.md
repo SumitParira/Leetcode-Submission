@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0815-bus-routes](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0815-bus-routes](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0788-rotated-digits](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -311,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
+| [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -345,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |

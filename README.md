@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1510-stone-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
@@ -444,4 +445,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->

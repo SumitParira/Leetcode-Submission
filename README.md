@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -449,4 +450,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->

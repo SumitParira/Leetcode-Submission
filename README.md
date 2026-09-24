@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |

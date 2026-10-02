@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0212-word-search-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0273-integer-to-english-words](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0273-integer-to-english-words/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0212-word-search-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0233-number-of-digit-one](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
@@ -465,4 +468,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->

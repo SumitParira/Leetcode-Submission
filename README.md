@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0212-word-search-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0212-word-search-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0233-number-of-digit-one](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0233-number-of-digit-one/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |

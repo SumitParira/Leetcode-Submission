@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Counting
@@ -476,4 +478,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->

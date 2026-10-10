@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1901-find-a-peak-element-ii/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -343,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2751-robot-collisions](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |

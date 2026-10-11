@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0856-score-of-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -490,4 +491,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->

@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -504,4 +507,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->

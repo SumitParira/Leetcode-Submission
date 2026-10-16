@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0815-bus-routes](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0896-monotonic-array](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0896-monotonic-array/) | Easy |
+| [0929-unique-email-addresses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0929-unique-email-addresses/) | Easy |
 | [1020-number-of-enclaves](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1140-stone-game-ii](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0929-unique-email-addresses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0929-unique-email-addresses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [0815-bus-routes](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/0815-bus-routes/) | Hard |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0929-unique-email-addresses](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/0929-unique-email-addresses/) | Easy |
 | [1048-longest-string-chain](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |

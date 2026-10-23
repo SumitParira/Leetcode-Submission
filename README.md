@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Hard/3093-longest-common-suffix-queries/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/SumitParira/Leetcode-Submission/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
